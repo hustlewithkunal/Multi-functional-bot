@@ -4,9 +4,11 @@ This multi-functional bot is designed to participate in four different competiti
 Components Used:
 
   DC Motors (4)
+  
     200 RPM Single Shaft BO Motor Straight
 
   Motor Driver (1)
+  
     L298N Motor Driver
 
   Buck Converter (1)
