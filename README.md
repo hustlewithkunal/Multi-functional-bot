@@ -12,22 +12,27 @@ Components Used:
     L298N Motor Driver
 
   Buck Converter (1)
+  
     LM2596HVS DC-DC Buck Converter
 
   Microcontroller (1)
+  
     ESP8266
 
   Wheels (4)
+  
     7x2 DC Gear Motor Wheels
     BO wheels, diameter: 65mm, thickness: 26mm
 
   Breadboard (1)
 
   Batteries (1)
+  
     12V Rechargeable Battery
     (Sufficient to power the motors and ESP8266)
 
-  Jumper Wires
+  Jumper Wires:
+  
   For circuit connections between the components
 
 Features
