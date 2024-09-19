@@ -1,7 +1,8 @@
 Project Overview
 This multi-functional bot is designed to participate in four different competitions: tug of war, robo soccer, sumo war, and racing. It is equipped with essential components to ensure optimal performance in terms of speed, strength, and stability, adaptable to the requirements of each event. The bot is controlled using an ESP8266 microcontroller, providing seamless operation for all competitions.
 
-Components Used
+Components Used:
+
   DC Motors (4)
     200 RPM Single Shaft BO Motor Straight
 
